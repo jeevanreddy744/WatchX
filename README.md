@@ -1472,3 +1472,137 @@ WatchX — AI-Powered Vehicle Investigation \& Road Surveillance System
 
 Built as an AI and computer-vision prototype for intelligent analysis of road surveillance footage.
 
+\---
+
+
+
+\# 📸 WatchX — Application Screenshots
+
+
+
+\## 🖥️ WatchX Desktop Application
+
+
+
+The WatchX desktop application provides the main interface for selecting CCTV footage, starting AI-powered processing, monitoring processing progress, and accessing the investigation dashboard.
+
+
+
+!\[WatchX Desktop](screenshots/watchx\_desktop.png)
+
+
+
+\---
+
+
+
+\## ⚙️ Video Processing
+
+
+
+WatchX processes the selected CCTV footage and provides real-time processing progress.
+
+
+
+!\[Video Processing](screenshots/processing.png)
+
+
+
+\---
+
+
+
+\## ✅ Processing Completed
+
+
+
+After processing is completed, WatchX confirms that the investigation data has been generated successfully.
+
+
+
+!\[Processing Completed](screenshots/Processing%20completed%20%20final%20result.png)
+
+
+
+\---
+
+
+
+\## 📊 Investigation Dashboard
+
+
+
+The investigation dashboard provides investigators with a centralized view of detected vehicle events, number plates, OCR confidence, and investigation information.
+
+
+
+!\[Investigation Dashboard](screenshots/Investigation%20Dashboard.png)
+
+
+
+\---
+
+
+
+\## 🚗 Vehicle Detection Records
+
+
+
+Detected vehicles and their extracted license plates are displayed as structured investigation records.
+
+
+
+!\[Vehicle Detection Records](screenshots/Vehicle%20detection%20records.png)
+
+
+
+\---
+
+
+
+\## 🔎 Search Vehicle
+
+
+
+Investigators can search the available detection records to locate specific vehicles or license plates.
+
+
+
+!\[Search Vehicle](screenshots/search%20vechile.png)
+
+
+
+\---
+
+
+
+\## 🖼️ Visual Evidence
+
+
+
+WatchX provides visual evidence associated with detected vehicles and license plates to support investigation.
+
+
+
+!\[Visual Evidence](screenshots/Visual%20Evidence%20%20selected%20vehicle.png)
+
+
+
+\---
+
+
+
+\## 📜 Detection History
+
+
+
+The dashboard maintains a history of detected vehicle events for investigation and review.
+
+
+
+!\[Detection History](screenshots/detection%20histroy.png)
+
+
+
+\---
+
