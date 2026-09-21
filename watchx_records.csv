@@ -1,0 +1,7 @@
+time_seconds,frame,vehicle_id,vehicle_type,plate,ocr_confidence,votes
+5.50,330,2,Car,AP09C6555,0.76,2
+14.61,876,2,Car,AP99C6555,0.78,2
+18.91,1134,311,Motorcycle,TS07GD3211,0.99,2
+29.72,1782,2,Car,AP09G6555,0.76,2
+41.82,2508,619,Car,TG07A3233,0.99,2
+45.22,2712,650,Car,TG07W7025,0.99,2
