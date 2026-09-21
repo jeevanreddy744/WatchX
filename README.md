@@ -1606,3 +1606,65 @@ The dashboard maintains a history of detected vehicle events for investigation a
 
 \---
 
+
+
+
+
+\---
+
+
+
+\## 🔐 Investigator Authentication
+
+
+
+WatchX includes an investigator authentication layer for accessing the investigation dashboard.
+
+
+
+The dashboard requires a valid authorized investigator ID and password before access is granted.
+
+
+
+\### Authorized Investigator IDs
+
+
+
+The current MVP uses predefined investigator IDs:
+
+
+
+\- `24VE1A05HC`
+
+\- `24VE1AO5KD`
+
+\- `24VE1AO5JH`
+
+\- `24VE1A05HA`
+
+
+
+> \*\*Security Note:\*\* The current MVP uses fixed credentials for demonstration and prototype purposes. Production deployment should use secure credential storage, password hashing, role-based access control, account management, and secure authentication mechanisms.
+
+
+
+\### Dashboard Access
+
+
+
+1\. Launch WatchX.
+
+2\. Process the CCTV footage.
+
+3\. Open the Investigation Dashboard.
+
+4\. Enter an authorized investigator ID.
+
+5\. Enter the configured password.
+
+6\. Access the investigation dashboard.
+
+
+
+\---
+
