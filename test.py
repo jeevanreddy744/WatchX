@@ -1,1 +1,0 @@
-print("WatchX is starting...")
